@@ -74,8 +74,8 @@ string color(char x) {
 }
 ```
 
-
 *(Full code is in tic-tac-toe.cpp)*
 
 ---
+
 ## ⭐ “Constantly learning. Always building.”
