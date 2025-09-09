@@ -54,7 +54,7 @@ tic-tac-toe.exe    # Windows
 
 ---
 
-### 📜 Game Rules
+## 📜 Game Rules
 
 - Two players: Player 1 (X) and Player 2 (O)
 - Players take turns entering a number 1-9 to place their symbol
@@ -64,7 +64,7 @@ tic-tac-toe.exe    # Windows
 
 ---
 
-### 📝 Code Sample
+## 📝 Code Sample
 ```cpp
 // Function to print board symbols in color
 string color(char x) {
@@ -76,6 +76,13 @@ string color(char x) {
 
 *(Full code is in tic-tac-toe.cpp)*
 
+---
+
+## 👨‍💻 Author
+
+**Archit Sharan**  
+- [GitHub](https://github.com/architsharan)  
+- [LinkedIn](https://www.linkedin.com/in/archit-sharan-3a4062361)  
 ---
 
 ## ⭐ “Constantly learning. Always building.”
