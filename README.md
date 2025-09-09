@@ -52,15 +52,19 @@ g++ tic-tac-toe.cpp -o tic-tac-toe.exe
 tic-tac-toe.exe    # Windows
 ```
 
-📜 Game Rules
+---
 
-Two players: Player 1 (X) and Player 2 (O)
-Players take turns entering a number 1-9 to place their symbol
-First player to align three symbols horizontally, vertically, or diagonally wins
-If all cells are filled with no winner, the game ends in a draw
-Cannot place a symbol in an already occupied cell
+### 📜 Game Rules
 
-📝 Code Sample
+- Two players: Player 1 (X) and Player 2 (O)
+- Players take turns entering a number 1-9 to place their symbol
+- First player to align three symbols horizontally, vertically, or diagonally wins
+- If all cells are filled with no winner, the game ends in a draw
+- Cannot place a symbol in an already occupied cell
+
+---
+
+### 📝 Code Sample
 ```cpp
 // Function to print board symbols in color
 string color(char x) {
@@ -70,6 +74,9 @@ string color(char x) {
 }
 ```
 
+---
+
 *(Full code is in tic-tac-toe.cpp)*
 
-⭐ “Constantly learning. Always building.”
+---
+## ⭐ “Constantly learning. Always building.”
