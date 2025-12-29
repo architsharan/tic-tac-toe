@@ -56,11 +56,11 @@ tic-tac-toe.exe    # Windows
 
 ## 📜 Game Rules
 
-- Two players: Player 1 (X) and Player 2 (O)
-- Players take turns entering a number 1-9 to place their symbol
-- First player to align three symbols horizontally, vertically, or diagonally wins
-- If all cells are filled with no winner, the game ends in a draw
-- Cannot place a symbol in an already occupied cell
+- Two players: Player 1 (X) and Player 2 (O).
+- Players take turns entering a number 1-9 to place their symbol.
+- First player to align three symbols horizontally, vertically, or diagonally wins.
+- If all cells are filled with no winner, the game ends in a draw.
+- Cannot place a symbol in an already occupied cell.
 
 ---
 
