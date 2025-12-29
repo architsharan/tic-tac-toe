@@ -82,7 +82,7 @@ string color(char x) {
 
 **Archit Sharan**  
 - [GitHub](https://github.com/architsharan)  
-- [LinkedIn](https://www.linkedin.com/in/archit-sharan-3a4062361)  
+- [LinkedIn](https://www.linkedin.com/in/architsharan)  
 ---
 
 ## ⭐ “Constantly learning. Always building.”
